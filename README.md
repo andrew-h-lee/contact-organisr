@@ -22,6 +22,8 @@ A Contact Orgainser App. Mainly Testing App using Rspec.
 
 * CSS/CSS3
 
+* PostgreSQL (for Production)
+
 ## Installation
 
 * `gem  install 'rspec-rails'``
