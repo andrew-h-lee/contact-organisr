@@ -22,7 +22,11 @@ A Contact Orgainser App. Mainly Testing App using Rspec.
 
 * CSS/CSS3
 
+* SQLite3 (for Development)
+
 * PostgreSQL (for Production)
+
+* Heroku
 
 ## Installation
 
