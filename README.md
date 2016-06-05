@@ -30,9 +30,9 @@ A Contact Orgainser App. Mainly Testing App using Rspec.
 
 ## Installation
 
-* `gem  install 'rspec-rails'``
+* `gem  install 'rspec-rails'`
 * `gem install 'unicorn'`
 
-To start server, enter on terminal: `$ unicorn`
+To start server, enter on terminal: `$ unicorn` or `$ rails s`
 
 ## Reference
