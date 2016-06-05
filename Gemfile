@@ -22,7 +22,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 # gem 'capistrano-rails', group: :development
 
 group :development, :test do
-  gem 'rspec-rails'
+  gem 'rspec-rails', '~> 3.4.2'
   gem 'sqlite3'
   gem 'byebug'
 end
