@@ -4,7 +4,7 @@ A Contact Orgainser App. Mainly Testing App using Rspec.
 
 ## Accomplished
 
-* Uni ttesting with Rpsec
+* Uni testing with Rpsec
 * Used Haml & Sass to view templates
 * Validating User authentication
 * Monitoring Deployment
@@ -32,6 +32,7 @@ A Contact Orgainser App. Mainly Testing App using Rspec.
 
 * `gem  install 'rspec-rails'`
 * `gem install 'unicorn'`
+* `gem install 'capybara'`
 
 To start server, enter on terminal: `$ unicorn` or `$ rails s`
 
